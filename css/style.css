@@ -1,0 +1,59 @@
+h1{
+    position: absolute;
+    margin-left: 710px;
+    font-size: 41pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.time-input{
+    font-size: 16pt;
+    margin-top: 240px;
+    margin-left: 700px;
+    padding: 8px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.submit{
+    position: absolute;
+    margin-top: 240px;
+    padding: 9px;
+    font-size: 18pt;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.datum{
+    position: absolute;
+    margin-top: 150px;
+    font-size: 23pt;
+    margin-left: 700px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hide{
+    display: none;
+}
+
+main{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.timer{
+    border: 2px solid black;
+    position: absolute;
+    padding: 10px;
+    width: 55%;
+    margin-top: 110px;
+    margin-left: 410px;
+}
+
+.timer h2{
+    margin-top: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.count-down{
+    font-size: 40pt;
+    margin:  5px 0 5px 0;
+    font-family: 'Courier New', Courier, monospace;
+}
